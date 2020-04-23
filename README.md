@@ -12,5 +12,6 @@ In this project we will detect the no. of faces present in an image.
 * **Face_Detection_OpenCV.zip** it is a zip file which contains above 3 files.
 
 ## Result:
-Finally we are able to detect the no. of faces in the image.
+Finally we are able to detect the no. of faces in the image.<br/>
+Total No. of faces are - 6 <br/>
 ![Screenshot of Output](Output.png)
